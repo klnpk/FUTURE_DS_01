@@ -99,6 +99,11 @@ Example:
 ```markdown
 ![Dashboard Preview](dashboard.png)
 ```
+## 📌 Project Overview
+
+This project presents an interactive **Business Sales Performance Dashboard** developed using **Microsoft Power BI**. The dashboard provides a comprehensive analysis of business sales data by tracking key performance indicators such as **Total Sales, Total Profit, Total Orders, and Profit Margin**. It also visualizes sales and profit across different **categories**, **regions**, **monthly sales trends**, and **top-performing products**. Interactive slicers for **Region, Category, and Segment** allow users to explore the data dynamically and gain meaningful business insights for better decision-making.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fbd253d8-6637-4881-b86a-b78620f876c5" />
+
 
 ---
 
